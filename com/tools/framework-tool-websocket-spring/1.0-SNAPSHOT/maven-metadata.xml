@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
   <groupId>com.tools</groupId>
-  <artifactId>framework-tool-websocket-core</artifactId>
+  <artifactId>framework-tool-websocket-spring</artifactId>
   <version>1.0-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20210412.161839</timestamp>
-      <buildNumber>3</buildNumber>
+      <timestamp>20210412.162325</timestamp>
+      <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20210412161839</lastUpdated>
+    <lastUpdated>20210412162325</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.0-20210412.161839-3</value>
-        <updated>20210412161839</updated>
+        <value>1.0-20210412.162325-1</value>
+        <updated>20210412162325</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0-20210412.161839-3</value>
-        <updated>20210412161839</updated>
+        <value>1.0-20210412.162325-1</value>
+        <updated>20210412162325</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>1.0-20210412.161839-3</value>
-        <updated>20210412161839</updated>
+        <value>1.0-20210412.162325-1</value>
+        <updated>20210412162325</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

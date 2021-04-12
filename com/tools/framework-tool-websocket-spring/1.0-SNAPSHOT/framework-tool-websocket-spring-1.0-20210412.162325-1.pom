@@ -8,6 +8,9 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>framework-tool-websocket-spring</artifactId>
+
     <properties>
         <!-- 此处配置的名称要和maven配置文件对应的serverId一致 -->
         <java.version>1.8</java.version>
@@ -17,19 +20,13 @@
         <repository.directory>D:\Maven\</repository.directory>
     </properties>
 
-    <artifactId>framework-tool-websocket-core</artifactId>
     <dependencies>
         <dependency>
-            <groupId>org.springframework</groupId>
-            <artifactId>spring-websocket</artifactId>
-        </dependency>
-        <dependency>
-            <groupId>org.javassist</groupId>
-            <artifactId>javassist</artifactId>
-            <version>3.24.0-GA</version>
+            <groupId>com.tools</groupId>
+            <artifactId>framework-tool-websocket-core</artifactId>
+            <version>1.0-SNAPSHOT</version>
         </dependency>
     </dependencies>
-
     <build>
         <!-- 此tag下面的所有plugins都是关于上传jar包的依赖 -->
         <plugins>
