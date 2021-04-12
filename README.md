@@ -1,3 +1,0 @@
-# repository
-
-Java maven repository
